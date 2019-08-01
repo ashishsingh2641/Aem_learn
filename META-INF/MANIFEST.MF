@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Content-Package-Roots: /content/HomePage,/apps/training,/etc/designs/t
+ raining
+Content-Package-Type: mixed
+Content-Package-Id: my_packages:AEM_APP:1.0.1
+

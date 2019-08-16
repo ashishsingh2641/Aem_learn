@@ -1,0 +1,31 @@
+ <div class="container-fluid " >
+	<main class="row text-image"  style="background-image:url(${properties.imgSrc @ context='styleString'});  width: auto;
+min-height: 405px;background-repeat: no-repeat;">
+ 	<div class="col-lg-5 pull-lg-1 title_text">
+				<div class="position-set">
+                    ${properties.label @context = 'html'}
+                 </div>
+             </div>
+
+		<sly>
+        	 <div class="col-lg-5 offset-lg-1 d-none d-lg-block d-xl-block parImage">
+                <img src=${properties.perImage} class="d-block mx-auto img-fluid" />
+            </div>
+
+        </sly>
+
+	</main>
+</div>
+
+
+<!--/*
+ 		<sly data-sly-test="${properties.position == 'right'}">
+            <div class="col-lg-6">${properties.label}</div>
+            <div class="col-lg-6">
+                <img src=${properties.perImage} class="d-block mx-auto img-fluid" />
+            </div>
+        </sly>
+        <sly data-sly-test="${!properties.position}">
+			<div class="text-center alert alert-warning col-12">Please author component</div>
+        </sly>
+*/-->

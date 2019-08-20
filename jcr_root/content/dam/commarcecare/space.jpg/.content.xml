@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:mixinTypes="[mix:referenceable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="1f3e3010-1c1e-4e0c-88f0-b4843139439c">
+    <jcr:content
+        dam:assetState="processed"
+        dam:relativePath="commarcecare/space.jpg"
+        jcr:lastModified="{Date}2019-08-20T23:20:37.887+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2019-08-20T23:20:34.809+05:30"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}72"
+            dam:Physicalheightininches="{Decimal}16.66666603088379"
+            dam:Physicalwidthindpi="{Long}72"
+            dam:Physicalwidthininches="{Decimal}26.66666603088379"
+            dam:Progressive="no"
+            dam:sha1="80fb34ca60413573546343f4e62dbd5d47ec9a2f"
+            dam:size="{Long}388465"
+            dc:format="image/jpeg"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            photoshop:ColorMode="{Long}3"
+            photoshop:DocumentAncestors="[029491BBE192CA9634CFCF29A083DDA7,0B2F9F7F76E7DD5019F4B1A742CBE5A1,12B2811315BD0C7C970F7DBD4F56AF70,16DBB5ED22F6408952FC94F2354AFC2C,178B28C655C5F9BF81D3B9A6CA7D299B,19E5674ED3C172122ED6F37E9DC1B636,1E65EB9018183CC0482B111C3BD8BD3D,1EADD34A165856F7A553C177B829EBAA,246DB96900C9FD968BACFD3943054B68,258B886A5361F9B8F50612815B03DD10,25A61009BDDDBD435BCE1CE2C055F7A3,277413BBC862AA7F28888269768B34D8,28AB38AA5B323B0BAE648E0939B7DB36,2ABC428D8AAAC91E5994394341057265,2AE565CB250C7C9653EEDDD7CA24F303,2B1691D3CCE7626C0F6B92100C7D5281,2B3FA91367E573F54D9482F3BF14E6B9,2B821E9C950664400B6B7B3433312A4E,2BB9D9DC9AAEDDAD38E92A87C77D656F,2E8E89575C9A77AB602B3D8494B71250,335DB57A73AE9EF3B90BF8C90D6BFB04,33B0DFB4F6CB9C1143DDA061164F8211,34467110D66263390F0A0EEDB227FBFF,3B981B8536B194707F60A974902A73E9,3BDE8412AA3E731C9B6D7AFF60B7E484,3DED8F1C0419108DB348D099B21B7115,40EA93268E78A2399690A029AE869CE7,445B3F4BBF5D51E1B1E9AB5908087296,4649EEE51435345EEAED784A6F546F54,4EEF19D55F37BAEC235B5F62D98305E5,511696570DBBECEE78897D57D80E8765,54EF1FC2B317AE860A5A62961C5B4F23,56BDF5F10D224EFC7FCC1FA14070F804,56CA5B83E4A5C5539E85B967382E7D83,599499954E53DCF956E2177C825F9602,5F96901059A33833CFD80E5B237A9D34,64212F4C532C41B85627B97DF51D3B84,66DE005C97BF5700E18394326FED7578,685637526919FD762E99F6CF46839BA3,6B017D6036DD45AF5B920929E980BE2E,6BC37587982EF16849098800238C13C7,712942791FE062A3049E495305DEA303,742EDF6FE115D1937B6498555F0136A5,74887405E53D60E9AB9613C52C27E1EB,7CD2DBAAB94032E5798C0260DD683FF3,80B52CD20BEBAF3D1AC9C1CCBE18D05A,8A8034336B87FE5835DE702A095D576B,8B596DD947A552262FE68A6C4A60449C,8CEC87383C67E8E6D5E75D64A6080997,8D903959C005CF774F81A11E40C8CCF6,8DCE15EC2F7BE5EC2E085D6212B4D0CF,8FA63FC9C73F893D76F6607996087E68,91575DD36B06CEE757F0243178689A0D,956790F49BE30A18B5E77F3126895063,9B25F7C152420E669D724168071C11F6,A01327A75C7EAC595B00C94F57906125,A10CC17CC9F89FDE160E072D88A81F7A,A19107AB4DB35B875C0D7B351FF411D6,A26091AC6478BACD70570F68136CD617,A5290057E6935307C95504FD0E42E713,A908DCCDAF0F74DC805DA34ADA9BD9BA,A952A9AC9C373F9746C6825841E152BD,AEAF0323C2695B932524B7932F56D554,B2A581D68249DF3E6FA8054B23E0D9E0,B534463EE8F5D11DEF7126DFF3560B7C,B909779988C5CEBC6D1C0F63CF80DC5C,B937A94F499299AA388C6AFF09EC62B2,B955AE6AB0348EF72561C9DCB41A5CF6,BA5756FD49A1826F90C994B48011ADFD,BD8E51E8925C2E4AD1FCA7611AFA50FE,C0B286A433D04D16589D2242B3D8023A,C8F742BD528B1A59F55032E347E7F923,C98D87AF9AC95C2D169E3E60B1EFB1C7,CBAB97C2E95F3EC930E2B4BC6554B4F4,CC74B90B89D111A2D954D1C9E4DB43E7,CCEA1893B2FA2C30893802F03767784F,CCF25A50F2E6CD7C341B8AA44F9DF79F,CE1F514E1825BF3FF39B1B247764558C,CE309D69E95060506E341D339905579E,D19EEB6B081AB9DFDD6F1C54C5E690D3,D2A0E38A6366DBBC0F6340367D676260,D705C5FC7D34B9E832A9E51B5AE258C0,D8514D158621360FAE6DDE442BB54517,DF80CA6EEFB82362254B4AC476E0FEEC,E4401CEEB5D0787B7C5697FB5C3C3B51,E4B62CBA2D449314A1368749CA2AAC31,E9CAF2C508DBE1AE0D4670D50C434938,EA215FE21AFC477EB4078F751FCDD730,EBA3BA95AC4D71E278B964586E64BA02,ED262FEC2ABF336E1613A1585AF25FE3,ED7E8C0FE0C92C38798D796311797C7B,EF426B96979E724BCA9B0C13AA168B66,F1A41DFE48DD2B5D70E6DE313EF99421,F28239657C42E0616B69E5F68FCD2512,F63062D5BABC861B6A630F98FC9CDF1C,F97D0AF3F3113CC2B62D0AFF18EDBD93,FA02A8420AAD14FA50F3EDACB8A7DA12,FD1777B67F4B5F42821292D683D2AFCA,adobe:docid:indd:39a4b50f-a77e-11de-979b-d99fe24d8d23,adobe:docid:photoshop:0216de83-d38b-11d9-a1ba-8796b9977db8]"
+            photoshop:DocumentAncestors_xmpArrayType="rdf:Bag"
+            photoshop:ICCProfile="sRGB IEC61966-2.1"
+            photoshop:LegacyIPTCDigest="7EB1A710C779960D715F68F6D6C20CAF"
+            tiff:ImageLength="{Long}1200"
+            tiff:ImageWidth="{Long}1920"
+            xmp:CreateDate="{Date}2013-03-07T14:17:07.000-08:00"
+            xmp:CreatorTool="Adobe Photoshop CC 2014 (Macintosh)"
+            xmp:MetadataDate="{Date}2014-10-22T14:24:10.000-07:00"
+            xmp:ModifyDate="{Date}2014-10-22T14:24:10.000-07:00"
+            xmpMM:DocumentID="adobe:docid:photoshop:32cb3b0e-9ab3-1177-94bb-f5e712979a9b"
+            xmpMM:InstanceID="xmp.iid:e3289e62-1639-43ef-bb20-48ff643aa9e7"
+            xmpMM:OriginalDocumentID="xmp.did:4A85F842C086E21182C28AD06BDF4796"
+            xmpRights:Marked="{Boolean}false">
+            <xmpMM:History
+                jcr:primaryType="nt:unstructured"
+                xmpArraySize="{Long}7"
+                xmpArrayType="rdf:Seq"
+                xmpNodeType="xmpArray">
+                <_x0031_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="created"
+                    stEvt:instanceID="xmp.iid:4A85F842C086E21182C28AD06BDF4796"
+                    stEvt:softwareAgent="Adobe Photoshop CS5 Windows"
+                    stEvt:when="{Date}2013-03-07T14:17:07.000-08:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0032_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:4B85F842C086E21182C28AD06BDF4796"
+                    stEvt:softwareAgent="Adobe Photoshop CS5 Windows"
+                    stEvt:when="{Date}2013-03-07T17:12:57.000-08:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0033_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:0f95c944-ea34-4d1a-9092-9ae58c288053"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2014 (Macintosh)"
+                    stEvt:when="{Date}2014-10-22T14:21:45.000-07:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0034_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="converted"
+                    stEvt:parameters="from application/vnd.adobe.photoshop to image/jpeg"
+                    xmpNodeType="xmpStruct"/>
+                <_x0035_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="derived"
+                    stEvt:parameters="converted from application/vnd.adobe.photoshop to image/jpeg"
+                    xmpNodeType="xmpStruct"/>
+                <_x0036_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:c8d4164e-87ae-4f3c-94bd-86d3cc151d52"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2014 (Macintosh)"
+                    stEvt:when="{Date}2014-10-22T14:21:45.000-07:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0037_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:e3289e62-1639-43ef-bb20-48ff643aa9e7"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2014 (Macintosh)"
+                    stEvt:when="{Date}2014-10-22T14:24:10.000-07:00"
+                    xmpNodeType="xmpStruct"/>
+            </xmpMM:History>
+            <xmpMM:DerivedFrom
+                jcr:primaryType="nt:unstructured"
+                stRef:documentID="adobe:docid:photoshop:b4ba3905-9474-1177-86a2-ad3440022ad8"
+                stRef:instanceID="xmp.iid:0f95c944-ea34-4d1a-9092-9ae58c288053"
+                stRef:originalDocumentID="xmp.did:4A85F842C086E21182C28AD06BDF4796"
+                xmpNodeType="xmpStruct"/>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

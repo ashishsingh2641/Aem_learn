@@ -1,0 +1,18 @@
+<div class="row" data-sly-test="${!properties.columnControl}">
+	<h4 class="alert alert-danger col-12 text-center">please drag your component</h4>
+</div>
+<div class="row" data-sly-test="${properties.columnControl == '6'}">
+	<div class="col-lg-${properties.columnControl}" data-sly-resource="${ 'par-1' @ resourceType='wcm/foundation/components/responsivegrid'}"></div>
+    <div class="col-lg-${properties.columnControl}" data-sly-resource="${ 'par-2' @ resourceType='wcm/foundation/components/responsivegrid'}"></div>
+</div>
+<div class="row" data-sly-test="${properties.columnControl == '4'}">
+	<div class="col-lg-${properties.columnControl} p-0" data-sly-resource="${ 'par-1' @ resourceType='wcm/foundation/components/responsivegrid'}"></div>
+    <div class="col-lg-${properties.columnControl} p-0" data-sly-resource="${ 'par-2' @ resourceType='wcm/foundation/components/responsivegrid'}"></div>
+    <div class="col-lg-${properties.columnControl} p-0" data-sly-resource="${ 'par-3' @ resourceType='wcm/foundation/components/responsivegrid'}"></div>
+</div>
+<div class="row" data-sly-test="${properties.columnControl == '3'}">
+	<div class="col-lg-${properties.columnControl} p-0" data-sly-resource="${ 'par-1' @ resourceType='wcm/foundation/components/responsivegrid'}"></div>
+    <div class="col-lg-${properties.columnControl} p-0" data-sly-resource="${ 'par-2' @ resourceType='wcm/foundation/components/responsivegrid'}"></div>
+    <div class="col-lg-${properties.columnControl} p-0" data-sly-resource="${ 'par-3' @ resourceType='wcm/foundation/components/responsivegrid'}"></div>
+    <div class="col-lg-${properties.columnControl} p-0" data-sly-resource="${ 'par-4' @ resourceType='wcm/foundation/components/responsivegrid'}"></div>
+</div>

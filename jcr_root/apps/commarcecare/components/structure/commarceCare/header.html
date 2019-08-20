@@ -1,0 +1,11 @@
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<title>${currentPage.Title}</title>
+    <!--/* to fix responsive grid height issue */-->
+    <sly data-sly-include="/libs/wcm/core/components/init/init.jsp" data-sly-unwrap/> 
+        
+    <sly data-sly-use.clientLib="${'/libs/granite/sightly/templates/clientlib.html'}" 
+    	data-sly-call="${clientLib.css @ categories='commarce.care'}" />
+ </head>

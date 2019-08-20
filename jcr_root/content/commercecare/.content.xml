@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:deviceGroups="[/etc/mobile/groups/responsive]"
+        cq:lastModified="{Date}2019-08-21T01:07:47.785+05:30"
+        cq:lastModifiedBy="admin"
+        cq:template="/apps/commarcecare/templates/commarceCare"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="commercecare"
+        sling:resourceType="commarcecare/components/structure/commarceCare">
+        <image jcr:primaryType="nt:unstructured">
+            <file/>
+        </image>
+        <par
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="wcm/foundation/components/responsivegrid">
+            <titlecomponent
+                jcr:created="{Date}2019-08-08T18:39:02.615+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2019-08-08T18:39:50.801+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="commarcecare/components/content/titleComponent"
+                headerTitle="&lt;p>asdsadsad&lt;/p>&#xd;&#xa;"
+                imgSrc="/content/dam/we-retail-screens/we-retail-instore-logo.png"
+                textIsRich="true"/>
+            <navbar
+                jcr:created="{Date}2019-08-09T11:41:49.968+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2019-08-09T11:41:49.968+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="commarcecare/components/content/navBar"/>
+            <header
+                jcr:created="{Date}2019-08-12T15:23:32.913+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2019-08-16T15:27:18.133+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="commarcecare/components/content/header"
+                imgSrc="/content/dam/commarcecare/applebanner.jpeg"
+                label="&lt;h1>Confused about choosing plans?&lt;/h1>&#xd;&#xa;&lt;p>Dont worry! Our dedicted survey team conducts frequent surveys with our users, does profound analysis and figure out the way to provide the best out of industry that gives hassel free network connectivity to our users to communicate with your near and dear ones. Never the late, choose the best plan that suits you here&lt;/p>&#xd;&#xa;&lt;p>&lt;a href=&quot;/content/WeTrain/English/English1.html&quot; target=&quot;_self&quot;>Select plans here..&lt;/a>&lt;/p>&#xd;&#xa;"
+                perImage="/content/dam/commarcecare/Thinking.png"
+                position="[left]"
+                textIsRich="true"/>
+            <textandimageleft
+                jcr:created="{Date}2019-08-20T23:26:15.531+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2019-08-20T23:28:59.518+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="commarcecare/components/content/textandimageLeft"
+                imgSrc="/content/dam/commarcecare/applebanner.jpeg"
+                label="&lt;h1>Astell&amp;amp;Kern&lt;/h1>&#xd;&#xa;&lt;p>Astell&amp;amp;Kern has specially designed the SP1000 AMP for its SP1000 DAP so that they can come together and deliver a better sound experience for high-impedance earphones and headphones. Made from the premium natural materials, the black backing of the AMP represents SP1000 and a divide silhouette is expressed for the sound wavelength which splashes over all the directions.&lt;/p>&#xd;&#xa;&lt;p>&lt;a href=&quot;/content/we-retail/language-masters/en/men.html&quot; target=&quot;_blank&quot;>Buy now....&lt;/a>&lt;/p>&#xd;&#xa;"
+                perImage="/content/dam/commarcecare/headphones.png"
+                position="left"
+                textIsRich="true"/>
+            <textandimageleft_1380244328
+                jcr:created="{Date}2019-08-20T23:29:06.498+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2019-08-20T23:50:46.069+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="commarcecare/components/content/textandimageLeft"
+                imgSrc="/content/dam/commarcecare/solidBackground.jpg"
+                label="&lt;h1>SIM card&lt;/h1>&#xd;&#xa;&lt;p>A&amp;nbsp;&lt;b>subscriber identity module&lt;/b>&amp;nbsp;or&amp;nbsp;&lt;b>subscriber identification module&lt;/b>&amp;nbsp;(&lt;b>SIM&lt;/b>), widely known as a&amp;nbsp;&lt;b>SIM card&lt;/b>, is an&amp;nbsp;&lt;a href=&quot;https://en.wikipedia.org/wiki/Integrated_circuit&quot; title=&quot;Integrated circuit&quot;>integrated circuit&lt;/a>&amp;nbsp;that is intended to&amp;nbsp;&lt;a href=&quot;https://en.wikipedia.org/wiki/Encryption&quot; title=&quot;Encryption&quot;>securely&lt;/a>&amp;nbsp;store the&amp;nbsp;&lt;a href=&quot;https://en.wikipedia.org/wiki/International_mobile_subscriber_identity&quot; title=&quot;International mobile subscriber identity&quot;>international mobile subscriber identity&lt;/a>&amp;nbsp;(IMSI) number and its related&amp;nbsp;&lt;a href=&quot;https://en.wikipedia.org/wiki/SIM_card#Authentication_key&quot;>key&lt;/a>, which are used to identify and authenticate subscribers on&amp;nbsp;&lt;a href=&quot;https://en.wikipedia.org/wiki/Mobile_telephony&quot; title=&quot;Mobile telephony&quot;>mobile telephony&lt;/a>&amp;nbsp;devices (such as&amp;nbsp;&lt;a href=&quot;https://en.wikipedia.org/wiki/Mobile_phone&quot; title=&quot;Mobile phone&quot;>mobile phones&lt;/a>&amp;nbsp;and&amp;nbsp;&lt;a href=&quot;https://en.wikipedia.org/wiki/Computer&quot; title=&quot;Computer&quot;>computers&lt;/a>). It is also possible to store contact information on many SIM cards. SIM cards are always used on&amp;nbsp;&lt;a href=&quot;https://en.wikipedia.org/wiki/GSM&quot; title=&quot;GSM&quot;>GSM&lt;/a>&amp;nbsp;phones; for&amp;nbsp;&lt;a href=&quot;https://en.wikipedia.org/wiki/CDMA&quot; title=&quot;CDMA&quot;>CDMA&lt;/a>&amp;nbsp;phones, they are only needed for newer&amp;nbsp;&lt;a href=&quot;https://en.wikipedia.org/wiki/LTE_(telecommunication)&quot; title=&quot;LTE (telecommunication)&quot;>LTE&lt;/a>-capable handsets. SIM cards can also be used in&amp;nbsp;&lt;a href=&quot;https://en.wikipedia.org/wiki/Satellite_phone&quot; title=&quot;Satellite phone&quot;>satellite phones&lt;/a>, smart watches, computers, or cameras.&lt;/p>&#xd;&#xa;"
+                perImage="/content/dam/commarcecare/sim.png"
+                position="right"
+                textIsRich="true"/>
+            <textandimageleft_1263880174
+                jcr:created="{Date}2019-08-20T23:51:15.611+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2019-08-20T23:52:50.760+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="commarcecare/components/content/textandimageLeft"
+                imgSrc="/content/dam/commarcecare/virtusa-banner-1.jpeg"
+                label="&lt;h1>Apple Review&lt;/h1>&#xd;&#xa;&lt;p>Have been an Apple user for years, am on my 4th IPhone and I have a MAC. There seem to be more and more issues with Apple updates and after the mess with the iPhone 6; hard to trust Apple. But their support is dreadful. It's a business model similar to Comcast or Verizon. Yes response is quick and friendly,... &lt;/p>&#xd;&#xa;&lt;p>&lt;a href=&quot;https://www.sitejabber.com/reviews/apple.com#&quot;>read more&lt;/a>&lt;/p>&#xd;&#xa;"
+                perImage="/content/dam/commarcecare/ReviewForApple.png"
+                position="left"
+                textIsRich="true">
+                <cq:responsive jcr:primaryType="nt:unstructured">
+                    <default
+                        jcr:primaryType="nt:unstructured"
+                        offset="0"
+                        width="12"/>
+                </cq:responsive>
+            </textandimageleft_1263880174>
+            <column
+                jcr:created="{Date}2019-08-21T00:34:56.316+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2019-08-21T00:46:37.233+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="commarcecare/components/content/column"
+                columnControl="4"/>
+        </par>
+        <cq:responsive jcr:primaryType="nt:unstructured">
+            <breakpoints jcr:primaryType="nt:unstructured">
+                <phone
+                    jcr:primaryType="nt:unstructured"
+                    title="Smaller Screen"
+                    width="{Long}650"/>
+                <tablet
+                    jcr:primaryType="nt:unstructured"
+                    title="Tablet"
+                    width="{Long}1200"/>
+            </breakpoints>
+        </cq:responsive>
+    </jcr:content>
+</jcr:root>
